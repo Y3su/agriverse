@@ -32,9 +32,7 @@ AgriVerse aims to **digitize agricultural trade**, providing:
 ![Product Page](./public/placeholder.png)  
 *Product details modal with add-to-cart functionality.*
 
-🎥 *(Optional: Replace with animated GIF of live interactions)*
-
-**Live Demo:** [Add your live demo link here]  
+**Live Demo:** [🚧 Under Construction]  
 
 ---
 
@@ -76,8 +74,8 @@ npm install
 
 3. Configure environment variables
 ```env
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-anon-key
+VITE_SUPABASE_URL=supabase-url
+VITE_SUPABASE_ANON_KEY=anon-key
 ```
 
 4. Run the development server
@@ -85,7 +83,7 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 npm run dev
 ```
 
-5. Open `http://localhost:5173` in your browser.
+5. Open `http://localhost:8080` in your browser.
 
 ---
 
@@ -103,7 +101,7 @@ npm run dev
 
 ## 👨‍💻 About the Developer
 
-**[Your Name]** – Full-stack Web Developer specializing in **React, TypeScript, and modern frontend architectures**.  
+**Lourence Lariosa** – Full-stack Web Developer specializing in **React, TypeScript, and modern frontend architectures**.  
 
 Skills showcased in this project:
 
@@ -113,7 +111,7 @@ Skills showcased in this project:
 - Managing **state and forms efficiently**
 - Implementing **role-based dashboards** and dynamic routing
 
-Connect with me: [LinkedIn](#) | [Portfolio](#) | [Email](#)
+Connect with me: [LinkedIn](www.linkedin.com/in/lourence-lariosa-947b26351) | [Email](lourencelariosa23@gmail.com)
 
 ---
 
@@ -149,4 +147,4 @@ MIT License. See [LICENSE](./LICENSE) for details.
 ## 🔗 Links
 
 - GitHub Repo: [https://github.com/Y3su/agriverse](https://github.com/Y3su/agriverse)  
-- Live Demo: *(Add link if hosted)*
+- Live Demo: *(🚧 Under Construction)*
