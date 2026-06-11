@@ -6,7 +6,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-DB-green?logo=supabase) 
 ![Vite](https://img.shields.io/badge/Vite-4-purple?logo=vite)
 
-**AgriVerse** is an innovative **online agricultural marketplace**, connecting farmers, sellers, and buyers through a seamless web platform. Users can browse, sell, and purchase agricultural products with ease.
+**AgriVerse** is a digital marketplace created to help local farmers promote and sell their agricultural products online. It connects farmers, sellers, and buyers in one platform, making it easier for the community to access fresh produce, support local agriculture, and expand farmers’ reach in the digital market.
 
 ---
 
