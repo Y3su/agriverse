@@ -111,7 +111,7 @@ Skills showcased in this project:
 - Managing **state and forms efficiently**
 - Implementing **role-based dashboards** and dynamic routing
 
-Connect with me: [LinkedIn](www.linkedin.com/in/lourence-lariosa-947b26351) | [Email](lourencelariosa23@gmail.com)
+Connect with me: [LinkedIn](https://www.linkedin.com/in/lourence-lariosa-947b26351) | [Email](mailto:lourencelariosa23@gmail.com)
 
 ---
 
